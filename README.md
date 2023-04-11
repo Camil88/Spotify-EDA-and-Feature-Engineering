@@ -5,5 +5,5 @@ Spotify provides a lot of valuable data to analyze. There's a bunch of data conc
 
 Since datasets used for this analysis are too large to upload you can find data source links in **.ipynb** file.
 
-You can also find find this notebook on <a href="https://www.kaggle.com/code/muskagap/spotify-eda-feature-engineering-merged-datasets">Kaggle.</a>
+You can also find find this notebook on <a href="https://www.kaggle.com/muskagap/spotify-eda-feature-engineering-merged-datasets">Kaggle.</a>
 
